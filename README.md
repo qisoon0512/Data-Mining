@@ -1,2 +1,2 @@
 # Data-Mining
-Comprehensive Analysis of Road Accidents in Seoul: A Data-Driven Perspective
+The provided dataset is used to develop a comprehensive predictive model to estimate the number of people injured in road traffic accidents in Seoul.
